@@ -37,7 +37,7 @@ main {
 }
 
 .title {
-  padding: 15px 0 5px;
+  margin: 15px 0 5px;
 }
 
 .image1 {
@@ -89,7 +89,10 @@ footer {
     margin-bottom: 0px;
   }
 
-  
+  .image1 {
+    width: auto;
+    height: 150px;
+  }
 
   footer {
     width: 100%;
